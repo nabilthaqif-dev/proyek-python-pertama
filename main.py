@@ -1,2 +1,1 @@
-print('Hello, real world from venv!') 
-print("")
+print('Hello, real world from venv!')
